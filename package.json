@@ -1,6 +1,5 @@
 {
   "name": "nebula",
-  "homepage":"jordanv6.vercel.app",
   "private": true,
   "type": "module",
   "scripts": {
